@@ -1,2 +1,3 @@
-# source-control-guidelines
-Source Control Guidelines for HCPSS IT Staff
+# Source Control Guidelines
+
+![HCPSS Logo](https://hcpss.me/images/hcpss-logo.svg)
