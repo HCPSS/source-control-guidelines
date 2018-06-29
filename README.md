@@ -1,6 +1,15 @@
 
 <img src="https://hcpss.me/images/hcpss-logo.svg" alt="HCPSS Logo" width="50%" />
 
+### DRAFT
+This document in in draft form and is actively being worked on. If you wish to contribute please feel free to fork and submit a pull request. For help with using git and github check out this awesome tutorial.
+
+[jlord/git-it-electron](https://github.com/jlord/git-it-electron)
+
+This document is written in markdown. Markdown is extremely helpful for displaying documentation related to your projects. For help with markdown, try this webapp. It includes a helpful cheat sheet.
+
+[stackedit.io](https://stackedit.io/app#)
+
 # Source Control Guidelines
 Programming is hard. The simplest mistake can cause catastrophic failure. As developers, engineers, and programmers, we are expected to work independently with little oversight or audit to solve problems through software while maintaining the integrity, confidentiality and availability of millions of data for thousands of users.
 
