@@ -15,6 +15,8 @@ this webapp. It includes a helpful cheat sheet.
 Alternatively, you can download and install [writage](http://www.writage.com/).
 It allows you to edit markdown files in Word.
 
+<img src="https://hcpss.me/images/hcpss-logo.svg" alt="HCPSS Logo" width="50%" />
+
 Source Control Guidelines
 =========================
 
@@ -34,7 +36,7 @@ spend a lot of time lost in fruitless searches or writing documentation that may
 never be read. These guidelines exist to establish and communicate a clear
 understanding of how we implement source control.
 
-### HCPSS Manifesto 
+### HCPSS Manifesto
 
 -   Developers should be free to express ideas, solve problems, and generate
     code with minimal administrative overhead
